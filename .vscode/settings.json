@@ -1,0 +1,4 @@
+{
+	"appService.defaultWebAppToDeploy": "undefined/subscriptions/1cda4c33-badf-422b-a227-509633ce9e33/resourceGroups/appsvc_linux_eastus2_basic/providers/Microsoft.Web/sites/next-azure-identity",
+	"appService.deploySubpath": "."
+}
